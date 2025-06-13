@@ -1,3 +1,6 @@
+import something from './lib.js'
+
+
 windyInit({}, windyAPI => {
   const { map } = windyAPI;
 
