@@ -6,5 +6,6 @@
   "plugin": {
     "script": "plugin.js",
     "html": "plugin.html"
+
   }
 }
